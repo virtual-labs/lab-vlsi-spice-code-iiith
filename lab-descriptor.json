@@ -68,9 +68,8 @@
   },
   "objective": "Key Learning Outcomes:<ul><li>Designing Circuits: Create and simulate transistor-level circuits using SPICE.</li><li>Analyzing Performance: Evaluate circuit behavior, signal integrity, and power consumption.</li>Verifying Circuit Performance: Evaluate design accuracy and optimize circuit parameters for VLSI applications..</li></ul>",
   "courseAlignment": {
-    "description": "VLSI Design is a professional core course in Electronics and Communication Engineering (PCC-EC24 and PCC-EC25) recommended in the AICTE model curriculum.",
-    "universities": [
-      ""
+    "description": "VLSI Design is a professional core course in Electronics and Communication Engineering",
+    "universities": ["(PCC-EC24 and PCC-EC25) recommended in the AICTE model curriculum."
     ]
   }
  
