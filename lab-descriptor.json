@@ -10,7 +10,7 @@
   "collegeName": "IIITH",
   "baseUrl": "vlsis-iiith.vlabs.ac.in",
   "introduction": " The VLSI with SPICE Code Lab provides a hands-on platform for designing and simulating transistor-level circuits using SPICE. Students develop circuit analysis skills, explore device characteristics, and gain practical experience in modeling, simulating, and verifying integrated circuit designs for VLSI applications.",
-  "experiment":[
+  "experiments":[
   {
     "name": "Schematic Design Of Transistor Level Inverter using SPICE Code",
     "short-name": "transistor-inverter-spice",
